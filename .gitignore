@@ -5,6 +5,8 @@ dataset/
 # Ignore large build artifacts and outputs
 build_out/
 output/
+cache/
+.DS_Store
 *.parquet
 *.index
 *.csv
